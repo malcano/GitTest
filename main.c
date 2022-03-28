@@ -7,6 +7,7 @@ int main (void){
 	printf("Name: ");
 	scanf("%s", name);
 
+	printf("test");
 
 	printHello();
 	printBye();
